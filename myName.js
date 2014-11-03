@@ -1,5 +1,5 @@
 var myName = "Amit";
-var status="";
+var status=""; /* we can also use "var status;"(without quotes) here */
 
 if(myName.length >=15)
 {
